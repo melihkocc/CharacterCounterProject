@@ -1,0 +1,2 @@
+# CharacterCounterProject
+ Character Counter App
